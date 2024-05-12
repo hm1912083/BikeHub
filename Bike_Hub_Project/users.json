@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Super Admin",
+    "email": "admin@gmail.com",
+    "email_verified_at": null,
+    "password": "12345678",
+    "role": "1",
+    "remember_token": null,
+    "created_at": "2024-05-07 08:26:09",
+    "updated_at": "2024-05-07 08:26:09"
+  }
+
+]

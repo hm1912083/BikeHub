@@ -1,0 +1,10 @@
+[
+    {"id":"1","product_id":"39","order_id":"1","quantity":"1","created_at":"2024-05-07 08:39:43","updated_at":"2024-05-07 08:39:43"},
+    {"id":"2","product_id":"23","order_id":"2","quantity":"1","created_at":"2024-05-07 08:40:05","updated_at":"2024-05-07 08:40:05"},
+    {"id":"3","product_id":"8","order_id":"3","quantity":"1","created_at":"2024-05-07 08:40:14","updated_at":"2024-05-07 08:40:14"},
+    {"id":"4","product_id":"34","order_id":"4","quantity":"1","created_at":"2024-05-08 06:05:49","updated_at":"2024-05-08 06:05:49"},
+    {"id":"5","product_id":"2","order_id":"5","quantity":"2","created_at":"2024-05-08 06:06:15","updated_at":"2024-05-08 06:06:15"},
+    {"id":"6","product_id":"26","order_id":"6","quantity":"2","created_at":"2024-05-08 06:06:33","updated_at":"2024-05-08 06:06:33"},
+    {"id":"7","product_id":"22","order_id":"7","quantity":"1","created_at":"2024-05-08 06:06:42","updated_at":"2024-05-08 06:06:42"},
+    {"id":"8","product_id":"27","order_id":"8","quantity":"2","created_at":"2024-05-08 06:06:57","updated_at":"2024-05-08 06:06:57"}
+]
